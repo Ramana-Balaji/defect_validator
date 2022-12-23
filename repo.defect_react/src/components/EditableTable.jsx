@@ -258,6 +258,4 @@ EditableTable.propTypes = {
   whiteSpace: PropTypes.string,
 };
 
-// const mapState = (state) => ({ themeType: isDarkMode(state) });
-
 export default EditableTable;
